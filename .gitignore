@@ -4,4 +4,4 @@ obj
 *.depend
 wc_input
 wc_output
-
+*~
